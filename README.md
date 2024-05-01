@@ -7,7 +7,7 @@ Key Features:
 *Customizable: Tailwind CSS allows for easy customization of styles and components, enabling developers to tailor the design to fit their brand identity.
 *Scalable Architecture: Built with ReactJS, the project follows best practices in component-based architecture, making it easy to scale and maintain.
 
-                                                Screenshots :
+  Screenshots :
 ![Capture](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/decedc84-9e6a-4074-95c4-f47fbfe2fff6)
 ![Capture3](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/a6539343-d4cf-4426-8301-3c6cc40aba6e)
 ![Capture4](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/988856bb-73a5-4718-8ec2-81186ba0aa7e)
@@ -16,6 +16,10 @@ Key Features:
 
 How to Use:
 1. Clone the repository to your local machine.
-2. Install dependencies using 'npm install'.
-3. Start the development server with 'npm run dev'.
-4. Open your browser and navigate to localhost:3000 to view the landing page.
+2. Install dependencies using -
+   
+       npm install          
+4. Start the development server with -
+
+       npm run dev
+6. Open your browser and navigate to localhost:3000 to view the landing page.
