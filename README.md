@@ -7,11 +7,11 @@ Key Features:
 *Customizable: Tailwind CSS allows for easy customization of styles and components, enabling developers to tailor the design to fit their brand identity.
 *Scalable Architecture: Built with ReactJS, the project follows best practices in component-based architecture, making it easy to scale and maintain.
 
-![Capture7](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/d8a138a4-921d-4744-bd4e-13c975d38ae8)
-![Capture6](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/22d3d9a2-010b-4730-9505-86c5e160c46f)
-![Capture4](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/988856bb-73a5-4718-8ec2-81186ba0aa7e)
-![Capture3](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/a6539343-d4cf-4426-8301-3c6cc40aba6e)
 ![Capture](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/decedc84-9e6a-4074-95c4-f47fbfe2fff6)
+![Capture3](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/a6539343-d4cf-4426-8301-3c6cc40aba6e)
+![Capture4](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/988856bb-73a5-4718-8ec2-81186ba0aa7e)
+![Capture6](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/22d3d9a2-010b-4730-9505-86c5e160c46f)
+![Capture7](https://github.com/digvijay164/web-ochi-ReactJS/assets/127867298/d8a138a4-921d-4744-bd4e-13c975d38ae8)
 
 How to Use:
 1. Clone the repository to your local machine.
