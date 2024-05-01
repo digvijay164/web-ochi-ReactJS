@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: NeueMontreal;
+    font-weight: 200;
+    src: url(../src/assets/fonts/tect/NeueMontreal-Regular5.ttf);
+}
+
+@font-face {
+    font-family: FoundersGrotesk;
+    font-weight: 200;
+    src: url(../src/assets/fonts/FoundersGrotesk-Semibold.woff);
+}
+
+@font-face {
+    font-family: FoundersGroteskCondensed;
+    font-weight: 200;
+    src: url(../src/assets/fonts/font2/Founders_Grotesk/FoundersGroteskXCond-Bold.otf);
+}
